@@ -1,0 +1,19 @@
+.sobre {
+  margin-left: 100px;
+}
+
+.sobre h2 {
+  color: #FFF;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-top: 200px;
+  margin-left: 0px;
+}
+
+.sobre img {
+  width: 1500px;
+  margin-top: 150px;
+  margin-bottom: 150px;
+}

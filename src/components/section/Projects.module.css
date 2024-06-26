@@ -1,0 +1,22 @@
+.projects {
+  margin-left: 100px;
+  flex-direction: column;
+  margin-bottom: 100px;
+}
+
+.projects h2 {
+  color: #FFF;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-top: 200px;
+  margin-left: 0px;
+}
+
+
+.division{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

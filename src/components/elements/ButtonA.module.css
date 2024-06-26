@@ -1,0 +1,21 @@
+.btn {
+  border: none;
+  margin-top: 50px;
+  width: 200px;
+  height: 50px;
+  border-radius: 83px;
+  background: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);
+  color: #FFF;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.btn:hover {
+  cursor: pointer;
+  transform: translateY(-7px);
+  transition: 0.8s;
+  color: #000000cb;
+}

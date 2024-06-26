@@ -1,0 +1,21 @@
+.footer{
+  display: flex;
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.link {
+  display: flex;
+  gap: 100px;
+  color: #FFF;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-align: left;
+}
+
+.icons {
+  display: flex;
+  gap: 50px;
+}

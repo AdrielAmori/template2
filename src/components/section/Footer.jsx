@@ -15,9 +15,13 @@ function Footer() {
         </p>
       </div>
       <div className={styles.icons}>
+        <a href='https://www.instagram.com/adrielarruda/' target='blank'>
         <FaGithub size={40}/>
-        <FaLinkedin size={40}/>
-        <FaFigma size={40}/>
+        </a>
+        <a href='https://www.linkedin.com/in/adriel-amorim-738ba720/' target='blank'><FaLinkedin size={40}/></a>
+        <a href='https://www.figma.com/'>
+          <FaFigma size={40}/>
+        </a>
       </div>
     </div>
   )
